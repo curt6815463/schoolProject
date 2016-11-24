@@ -1,0 +1,1 @@
+ffmpeg -ss 10 -i G0151612.mp4 -y -r 1 -t 1 tp0020.jpg
